@@ -72,6 +72,10 @@ TV.PS is a streaming service that focuses on providing a collection of Palestini
 
    This will start the development server and make the application accessible on [http://localhost:3000](http://localhost:3000).
 
+## Live Demo
+
+   Visit this link for the Live Demo => [https://tv-ps.vercel.app/](https://tv-ps.vercel.app/).
+
 ## Usage
 
 Once the development server is up and running, you can access the TV.PS application by visiting [http://localhost:3000](http://localhost:3000) in your web browser.
