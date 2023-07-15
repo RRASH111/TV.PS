@@ -43,13 +43,14 @@ TV.PS is a streaming service that focuses on providing a collection of Palestini
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/tv-ps.git
+   git clone https://github.com/RRASH111/TV.PS.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd tv-ps
+   cd TV.PS
+   cd TV.PS01
    ```
 
 3. Install dependencies:
